@@ -5,3 +5,8 @@ UNet is a popular deep learning architecture widely used for semantic segmentati
 
 ![image](https://github.com/iqbal1201/DeepUnet_Image/assets/70199329/3c0c3126-cf91-4c60-a36a-e3a46e12291a)
 
+
+
+![image](https://github.com/iqbal1201/DeepUnet_Image/assets/70199329/f8d3ed0a-3583-414f-a639-54a1caedd553)
+
+
